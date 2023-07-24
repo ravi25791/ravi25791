@@ -1,5 +1,5 @@
-Hey! I'm Ravi Kumar
-💻 I'm a Front-End Developer and Designer from Delhi, India.<br>👩‍💻Currently  I'm working on React js, Redux  and Redux-Saga<br>📚I'm currently Learning Node js and Next js
+# Hey! I'm Ravi Kumar 🙏:
+<br>💻 I'm a Front-End Developer and Designer from Delhi, India.<br>👩‍💻Currently  I'm working on React js, Redux  and Redux-Saga<br>📚I'm currently Learning Node js and Next js
 
 
 ## 🌐 Socials:
